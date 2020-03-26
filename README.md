@@ -1,2 +1,3 @@
-# chitlangesahas-gmail.com
-CNC Robot
+# CNC Drawing Robot
+
+Robot for the Makerspace. 
